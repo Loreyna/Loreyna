@@ -1,8 +1,6 @@
-## Hi there 👋
+## 👋Hello, welcome.
 
-<!--
-✨Hello, welcome.✨
-Here I leave you some information about me:
+✨Here I leave you some information about me:
 
 - 🌱 I am currently studying at 42malaga
 
@@ -14,4 +12,4 @@ Here I leave you some information about me:
         User experience design 2024.
         Swimming pool 42malaga 2024.
     }
--->
+
