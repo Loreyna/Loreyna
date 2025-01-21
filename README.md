@@ -3,15 +3,16 @@
 ✨Here I leave you some information about me:
 
 - 📚 I am currently studying at 
-        <a href="https://profile.intra.42.fr/users/lrey-mol" target="_blank"><img alt="42 (oscuro)" src="https://img.shields.io/badge/Málaga-black?style=flat&logo=42&logoColor=white" /></a>
+        <a href="https://profile.intra.42.fr/users/lrey-mol" target="_blank"><img alt="42 (oscuro)" src="https://img.shields.io/badge/Málaga-black?style=flat&logo=42&logoColor=white" /></a> 2024 - Present
 
 - 📫 How to contact me: 
         lorenareymolina@gmail.com
 
 - ⚡ Fun fact:
     {
-        User experience design 2024.
-        Swimming pool 42malaga 2024.
+          User experience design 2024.
+          Swimming pool 42malaga 2024.
+          Discovery Web 42malaga 2025.
     }
 
 ⁉️ Campus 42
