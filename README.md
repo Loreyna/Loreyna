@@ -9,11 +9,9 @@
         lorenareymolina@gmail.com
 
 - ⚡ Fun fact:
-    {
-          -User experience design Google   2024.
-          -Swimming pool          42malaga 2024.
-          -Discovery Web          42malaga 2025.
-    }
+          - User experience design Google   2024.
+          - Swimming pool          42malaga 2024.
+          - Discovery Web          42malaga 2025.
 
 ⁉️ Campus 42
 Campus 42 is an innovative programming school that offers an educational approach without traditional teachers or classes.
