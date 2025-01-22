@@ -10,9 +10,9 @@
 
 - ⚡ Fun fact:
     {
-          User experience design 2024.
-          Swimming pool 42malaga 2024.
-          Discovery Web 42malaga 2025.
+          -User experience design Google   2024.
+          -Swimming pool          42malaga 2024.
+          -Discovery Web          42malaga 2025.
     }
 
 ⁉️ Campus 42
