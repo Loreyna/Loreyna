@@ -9,6 +9,7 @@
         lorenareymolina@gmail.com
 
 - ⚡ Fun fact:
+
           - User experience design Google   2024.
           - Swimming pool          42malaga 2024.
           - Discovery Web          42malaga 2025.
