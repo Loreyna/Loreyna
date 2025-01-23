@@ -8,7 +8,7 @@
 - 📫 How to contact me: 
         lorenareymolina@gmail.com
 
-- ⚡ Fun fact:
+- ⚡ Fun fact: Student at 42 Málaga from 2024 to the present.
 
          - Fundamentos de la ciberseguridad.           Google   2025.
          - Discovery Piscine - Cybersecurity.          42malaga 2025.
