@@ -10,9 +10,14 @@
 
 - ⚡ Fun fact:
 
-          - User experience design                     Google   2024.
-          - Swimming pool                              42malaga 2024.
-          - Discovery Piscine - Cybersecurity          42malaga 2025.
+         - Fundamentos de la ciberseguridad.           Google   2025.
+         - Discovery Piscine - Cybersecurity.          42malaga 2025.
+         - Swimming pool.                              42malaga 2024.
+         - User experience design.                     Google   2024.
+        
+          
+          
+  
 
 ⁉️ Campus 42
 Campus 42 is an innovative programming school that offers an educational approach without traditional teachers or classes.
